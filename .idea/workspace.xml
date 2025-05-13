@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99515a1f-1a5b-44ff-aee5-e62870615bc6" name="Changes" comment="user_ch_ORG_role">
-      <change afterPath="$PROJECT_DIR$/cypress/e2e/choosing_the_role_of_EI.cy.js" afterDir="false" />
+    <list default="true" id="99515a1f-1a5b-44ff-aee5-e62870615bc6" name="Changes" comment="user_ch_EI_role">
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/viewing_user_notifications.cy.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1747143339234</updated>
       <workItem from="1747143340299" duration="15541000" />
-      <workItem from="1747163484852" duration="5719000" />
+      <workItem from="1747163484852" duration="7761000" />
     </task>
     <task id="LOCAL-00001" summary="us_reg">
       <option name="closed" value="true" />
@@ -199,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747168519453</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="user_ch_EI_role">
+      <option name="closed" value="true" />
+      <created>1747170571505</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1747170571505</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +232,7 @@
     <MESSAGE value="user_ch_a_role_test" />
     <MESSAGE value="user_ch_a_role_fixed" />
     <MESSAGE value="user_ch_ORG_role" />
-    <option name="LAST_COMMIT_MESSAGE" value="user_ch_ORG_role" />
+    <MESSAGE value="user_ch_EI_role" />
+    <option name="LAST_COMMIT_MESSAGE" value="user_ch_EI_role" />
   </component>
 </project>
