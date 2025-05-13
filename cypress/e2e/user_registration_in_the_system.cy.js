@@ -54,4 +54,5 @@ describe('Модуль Регистрации – регистрация пол�
         cy.url().should('not.include', '/registration');
         cy.contains('Профиль').should('exist');
     });
-});
+})
+
