@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99515a1f-1a5b-44ff-aee5-e62870615bc6" name="Changes" comment="ch_a_role_neg">
-      <change afterPath="$PROJECT_DIR$/cypress/e2e/choosing_the_role_of_EI_neg.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/user_authorization_neg.cy.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +77,9 @@
       <updated>1747143339234</updated>
       <workItem from="1747143340299" duration="15541000" />
       <workItem from="1747163484852" duration="9277000" />
-      <workItem from="1747274943715" duration="12903000" />
+      <workItem from="1747274943715" duration="13492000" />
+      <workItem from="1747293874951" duration="618000" />
+      <workItem from="1747298724126" duration="570000" />
     </task>
     <task id="LOCAL-00001" summary="us_reg">
       <option name="closed" value="true" />
@@ -255,7 +257,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747286688069</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="ch_a_role_neg">
+      <option name="closed" value="true" />
+      <created>1747288718493</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1747288718493</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
