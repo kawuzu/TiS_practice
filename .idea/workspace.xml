@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99515a1f-1a5b-44ff-aee5-e62870615bc6" name="Changes" comment="user_notif_view">
-      <change afterPath="$PROJECT_DIR$/cypress/e2e/reading_user_notifications.cy.js" afterDir="false" />
+    <list default="true" id="99515a1f-1a5b-44ff-aee5-e62870615bc6" name="Changes" comment="user_notif_read">
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/user_registration_in_the_system_neg.cy.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,12 +22,12 @@
     &quot;assignee&quot;: &quot;kawuzu&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/kawuzu/TiS_practice.git",
-    "accountId": "135edcd2-f54b-4760-87d3-f02b84e4141d"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kawuzu/TiS_practice.git&quot;,
+    &quot;accountId&quot;: &quot;135edcd2-f54b-4760-87d3-f02b84e4141d&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -39,20 +39,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -69,7 +69,8 @@
       <option name="presentableId" value="Default" />
       <updated>1747143339234</updated>
       <workItem from="1747143340299" duration="15541000" />
-      <workItem from="1747163484852" duration="8531000" />
+      <workItem from="1747163484852" duration="9277000" />
+      <workItem from="1747274943715" duration="7215000" />
     </task>
     <task id="LOCAL-00001" summary="us_reg">
       <option name="closed" value="true" />
@@ -215,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747172423750</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="user_notif_read">
+      <option name="closed" value="true" />
+      <created>1747173326433</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1747173326433</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,6 +251,7 @@
     <MESSAGE value="user_ch_ORG_role" />
     <MESSAGE value="user_ch_EI_role" />
     <MESSAGE value="user_notif_view" />
-    <option name="LAST_COMMIT_MESSAGE" value="user_notif_view" />
+    <MESSAGE value="user_notif_read" />
+    <option name="LAST_COMMIT_MESSAGE" value="user_notif_read" />
   </component>
 </project>
