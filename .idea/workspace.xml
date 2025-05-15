@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99515a1f-1a5b-44ff-aee5-e62870615bc6" name="Changes" comment="user_notif_read">
-      <change afterPath="$PROJECT_DIR$/cypress/e2e/user_registration_in_the_system_neg.cy.js" afterDir="false" />
+    <list default="true" id="99515a1f-1a5b-44ff-aee5-e62870615bc6" name="Changes" comment="user_reg_neg">
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/choosing_a_role_neg.cy.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +70,7 @@
       <updated>1747143339234</updated>
       <workItem from="1747143340299" duration="15541000" />
       <workItem from="1747163484852" duration="9277000" />
-      <workItem from="1747274943715" duration="7215000" />
+      <workItem from="1747274943715" duration="8260000" />
     </task>
     <task id="LOCAL-00001" summary="us_reg">
       <option name="closed" value="true" />
@@ -224,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747173326433</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="user_reg_neg">
+      <option name="closed" value="true" />
+      <created>1747282659306</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1747282659306</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,6 +260,7 @@
     <MESSAGE value="user_ch_EI_role" />
     <MESSAGE value="user_notif_view" />
     <MESSAGE value="user_notif_read" />
-    <option name="LAST_COMMIT_MESSAGE" value="user_notif_read" />
+    <MESSAGE value="user_reg_neg" />
+    <option name="LAST_COMMIT_MESSAGE" value="user_reg_neg" />
   </component>
 </project>
